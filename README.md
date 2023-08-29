@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  width="80" height="22"/>
     </a>
    <a href="https://stackoverflow.com/users/12208261/snatchysquid">
-      <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)" alt="Stackoverflow Badge"  width="80" height="22"/>
+      <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"  width="80" height="22"/>
     </a>
 
 </p>
